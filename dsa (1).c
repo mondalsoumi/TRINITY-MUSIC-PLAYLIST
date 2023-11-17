@@ -1,8 +1,4 @@
-// APS105 Lab 9
-// This is a program written to maintain a personal music library, using a linked list to hold the songs in the library.
-// This is the final lab of the semester
-// Author: Malhar Shah
-// Student Number: 1004926912
+
 
 #include <stdio.h>
 #include <stdlib.h>
